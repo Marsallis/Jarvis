@@ -1,1 +1,1 @@
-# Jarvis
+# Jarvis is a virtual assistant, borrowed directly from Iron Man himself. He can do math problems and look up stuff for you. Jarvis uses wolframalpha API and Wikipedia API to get search results and PySimpleGUI for the pop up windows. Hope you enjoy using him!
